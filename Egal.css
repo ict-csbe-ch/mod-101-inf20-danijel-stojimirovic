@@ -27,7 +27,13 @@
     width: 355px;
     height: 200px;
 }
+body{
+    background-image: url("SuperSmashBrothersWP.png");
+    margin-top: 200px;
+    margin-bottom: 200px;
+    width: 100%;
 
+}
 .Footer {
     margin-top: auto;
     margin-bottom: auto;
