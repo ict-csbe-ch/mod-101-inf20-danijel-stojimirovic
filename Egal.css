@@ -1,0 +1,39 @@
+* {​​​​ padding: 0; margin: 0;}​​​​
+
+.Untertitel h1{
+    color: black;
+    text-align: center;
+}
+.Untertitel {color: black}
+.Footer h3{
+    margin-top: 95px;
+    color: silver;
+}
+.Titelbar {
+    background: crimson;
+    width: 100%;
+    height: 200px;
+    top: 0;
+    position: absolute;
+
+}
+
+.Image img{
+    border: 5px crimson;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    width: 355px;
+    height: 200px;
+}
+
+.Footer {
+    margin-top: auto;
+    margin-bottom: auto;
+    background: crimson;
+    width: 100%;
+    height: 200px;
+    bottom: 0;
+    position: absolute;
+}
